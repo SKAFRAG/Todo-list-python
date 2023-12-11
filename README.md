@@ -32,4 +32,4 @@ To access the executable files (`.exe`) of this To-Do List application, follow t
 Make sure to select the appropriate version before downloading the executable file.
 
 ### Bugs and Contributions
-If you encounter any bugs or have suggestions for improvements, please report them in the [Issues](link_to_your_issues) section on GitHub. Contributions and feature requests are welcomed!
+If you encounter any bugs or have suggestions for improvements, please report them in the Issues https://github.com/SKAFRAG/Todo-list-python/issues section on GitHub. Contributions and feature requests are welcomed!
