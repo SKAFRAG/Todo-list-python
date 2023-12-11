@@ -17,13 +17,13 @@ This simple To-Do List application helps you organize your tasks efficiently.
 - Managing Tasks:
   - Enter your task in the provided entry field and click on the checkbox to mark it as done/not done.
 - GitHub:
- - Visit my GitHub profile https://github.com/SKAFRAG to explore my other projects or report encountered bugs in this application.
+ - Visit my [GitHub profile](https://github.com/SKAFRAG) to explore my other projects or report encountered bugs in this application.
 
 ### Downloading Executable Files
 
 To access the executable files (`.exe`) of this To-Do List application, follow these steps:
 
-1. Go to the releases https://github.com/SKAFRAG/Todo-list-python/releases/tag/1.0 section of this repository.
+1. Go to the [releases](https://github.com/SKAFRAG/Todo-list-python/releases/tag/1.0) section of this repository.
 
 2. Find the desired version of the To-Do List application.
 
@@ -32,4 +32,4 @@ To access the executable files (`.exe`) of this To-Do List application, follow t
 Make sure to select the appropriate version before downloading the executable file.
 
 ### Bugs and Contributions
-If you encounter any bugs or have suggestions for improvements, please report them in the Issues https://github.com/SKAFRAG/Todo-list-python/issues section on GitHub. Contributions and feature requests are welcomed!
+If you encounter any bugs or have suggestions for improvements, please report them in the [Issues](https://github.com/SKAFRAG/Todo-list-python/issues) section on GitHub. Contributions and feature requests are welcomed!
